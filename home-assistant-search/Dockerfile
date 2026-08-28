@@ -4,4 +4,4 @@ RUN apk add --no-cache python3
 
 WORKDIR /HomeAssistantSearch
 
-CMD ["python3", "-m", "http.server", "8000"]
+CMD ["python3", "-m", "http.server", "7666"]
