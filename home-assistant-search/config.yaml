@@ -1,0 +1,9 @@
+name: "Home Assistant Search"
+description: "Use google search in home assistant"
+version: "1.0"
+slug: "home-assistant-search"
+init: false
+arch:
+  - aarch64
+  - amd64
+host_network: true
