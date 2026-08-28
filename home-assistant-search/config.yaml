@@ -1,6 +1,6 @@
 name: "Home Assistant Search"
 description: "Use google search in home assistant"
-version: "1.1"
+version: "1.2"
 slug: "home-assistant-search"
 init: false
 arch:
