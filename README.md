@@ -2,7 +2,7 @@
 
 [![License](https://img.shields.io/github/license/Flurop/HomeAssistantSearch)](./LICENSE)
 [![Last Commit](https://img.shields.io/github/last-commit/Flurop/HomeAssistantSearch)](https://github.com/Flurop/HomeAssistantSearch/commits)
-[![Version](https://img.shields.io/badge/Version-1.2-orange)](https://github.com/Flurop/HomeAssistantSearch/releases/v1.2)
+[![Version](https://img.shields.io/badge/Version-1.3-orange)](https://github.com/Flurop/HomeAssistantSearch/releases/v1.3)
 [![Made By](https://img.shields.io/badge/Made%20by-Flurop-teal)](https://flurop.github.io//)
 
 Have a full Roon UI in Home Assistant.
